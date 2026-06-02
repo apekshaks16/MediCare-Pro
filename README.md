@@ -2,8 +2,7 @@
 
 MediCare AI is an intelligent healthcare and patient care platform designed to improve accessibility, efficiency, and healthcare management.
 
-🌐 Live Demo: https://your-render-app.onrender.com
-
+🌐 Live Demo: https://medicare-pro-st4z.onrender.com/
 ## Features
 
 - 🎤 Voice-Based Symptom Checker
